@@ -1,7 +1,7 @@
 ---
 title: "Test Quarto"
 author: "Audrey"
-format: html
+format: gfm
 ---
 
 ## Quarto
